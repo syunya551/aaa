@@ -8,12 +8,13 @@
     padding:0 15px;
 }
 .top-wrapper{
-    background-image: url(https://lh3.googleusercontent.com/pw/AP1GczPusTdmV3Z0TWRQYWr4oKFYWGDRgccbrACBOOS4pjBaNYSSjVJNiGuBSKPkZwnibnyQnzzjsoLIFVg4hdDiWNplrbR3fpOsRwJMbDLzWXHWTSzrQBDUnl0zmU5c3VySwRtMG3Th1spCt7Po33oM-I71=w1470-h1102-s-no-gm?authuser=0);
+    background-image:url(https://lh3.googleusercontent.com/pw/AP1GczPusTdmV3Z0TWRQYWr4oKFYWGDRgccbrACBOOS4pjBaNYSSjVJNiGuBSKPkZwnibnyQnzzjsoLIFVg4hdDiWNplrbR3fpOsRwJMbDLzWXHWTSzrQBDUnl0zmU5c3VySwRtMG3Th1spCt7Po33oM-I71=w1470-h1102-s-no-gm?authuser=0);
     padding:150px 0 150px 0;
     background-image: cover;
     color:rgb(255, 255, 255);
     text-align:center;
 }
+
 .top-wrapper h1{
     font-size:60px;
     opacity:0 7;
