@@ -1,0 +1,60 @@
+*{
+    box-sizing:border-box;
+}
+.container{
+    max-width:1170px;
+    width:100%;
+    margin: 0 auto;
+    padding:0 15px;
+}
+.top-wrapper{
+    background-image: url("https://photos.app.goo.gl/fx1RHobJLvtXhKLZ8");
+    padding:150px 0 150px 0;
+    background-image: cover;
+    color:rgb(255, 255, 255);
+    text-align:center;
+}
+.top-wrapper h1{
+    font-size:60px;
+    opacity:0 7;
+    letter-spacing:5px;
+}
+.top-weapper p{
+    opacity:0 9;
+    font-size:15px;
+}
+.btn{
+    padding:10px 20px;
+    margin:0 15px;
+    display: inline-block;
+    color:white;
+    border: radius: 5px;
+    text-align: center;
+   
+}
+.btn:hover{
+    opacity:1;
+}
+.syoukai{
+    background-color: brown;
+}
+.syokunou{
+    background-color:green
+}
+.kankyou{
+    background-color:darkorange
+}
+.seikatsu{
+    background-color:hotpink
+}
+@media(max-width:640px){
+    .btn{
+        width:100%;
+    }
+    .top-wrapper h1{
+        font-size:70px;
+    }
+    .top-weapper p{
+        font-size:15px;
+    }
+}
